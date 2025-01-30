@@ -1,0 +1,209 @@
+body{
+    background-color: white;
+    font-family: 'Hanken Grotesk' , sans-serif;
+    margin: 0;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container .box1{
+    width: 300px;
+    height: 400px;
+    border-radius: 24px;
+    display: flex;
+    justify-content: center;
+    background: linear-gradient(hsl(252, 100%, 67%) , hsl(241, 81%, 54%));
+}
+
+.container .box1 .content{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+}
+.container .box1 .content .p1{
+    color: hsl(241, 100%, 89%);
+    font-size: 18px;
+    padding-top: 12px;
+    font-weight: bold;
+    padding-bottom: 12px;
+}
+.container .box1 .content .circle{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background: linear-gradient( hsla(256, 72%, 46%, 1) , hsla(241, 72%, 46%, 0));
+}
+.container .box1 .content .circle .p2{
+    font-size: 50px;
+    color: white;
+    font-weight: bold;
+    padding-top: -5px;
+    padding-top: 15px;
+}
+.container .box1 .content .circle .p3{
+    translate: 0px -65px;
+    color:hsl(241, 100%, 89%);
+    opacity: 0.6;
+}
+.container .box1 .content .txt{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.container .box1 .content .txt .p4{
+    color: white;
+    font-size: 25px;
+}
+.container .box1 .content .txt .p5{
+    color: hsl(241, 100%, 89%);
+    font-size: 14px;
+    width: 200px;
+    text-align: center;
+    translate: 0px -30px;
+}
+@media (max-width: 767px) {
+    
+}
+.container .box2{
+    width: 300px;
+    height: 400px;
+    border-radius: 0px 24px 24px 0px;
+    background-color: white;
+    box-shadow: 2px 18px 18px 15px hsl(241, 100%, 89% , 0.2);
+}
+.container .box2 .Summary{
+    padding: 12px 32px 0px;
+    color: hsl(224, 30%, 27%);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.r{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 12px;
+    font-size: 15px;
+    background-color:hsl(0, 100%, 98%); 
+    margin: 0px 30px;
+    border-radius: 10px; 
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.r1{
+    text-indent: -60px;
+    color: hsl(0, 100%, 67%);
+}
+.num{
+    color:hsl(224, 30%, 27%);
+}
+span{
+    opacity: 0.5;
+}
+.m{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 12px;
+    font-size: 15px;
+    background-color:hsl(39, 100%, 97%); 
+    margin: 0px 30px;
+    border-radius: 10px; 
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+.m1{
+    text-indent: -60px;
+    color: hsl(39, 100%, 56%);
+}
+
+.v{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 12px;
+    font-size: 15px;
+    background-color:hsl(166, 100%, 97%); 
+    margin: 0px 30px;
+    border-radius: 10px; 
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.v1{
+    text-indent: -60px;
+    color: hsl(166, 100%, 37%);
+}
+.vi{
+    display: flex;
+    justify-content: space-between;
+    padding: 0px 12px;
+    font-size: 15px;
+    background-color:hsl(234, 85%, 97%); 
+    margin: 0px 30px;
+    border-radius: 10px; 
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.vi1{
+    text-indent: -60px;
+    color: hsl(234, 85%, 45%);
+}
+.box2 .btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: hsl(224, 30%, 27%);
+    background-size: 15px;
+    margin: 0px 30px;
+    border-radius: 30px;
+    height: 45px;
+}
+.box2 .btn p{
+    color: white;
+}
+.box2 .btn:active{
+    background-color: hsl(234, 85%, 45%);
+    cursor: pointer;
+}
+@media (max-width: 767px){
+    .container {
+        justify-content: flex-start;
+        flex-direction: column; 
+        padding: 0px;
+    }
+    .container .box1 {
+        padding: 0px;
+        border-radius:0px 0px 24px 24px ;
+        width: calc(100%);
+        margin-bottom: 20px;
+        padding: 0px;
+    }
+  
+    .container .box1 .content .txt .p5{
+        font-size: 14px;
+        width: 250px;
+        text-align: center;
+    }
+    .container .box2{
+        width: 100%;
+        border-radius: 0px 24px 24px 0px;
+        background-color: white;
+        box-shadow: 2px 18px 18px 15px hsl(241, 100%, 89% , 0.2);
+
+    }
+    .container .box2 .Summary{
+        padding: 0px 32px;
+        margin: -6px 0px;
+        height: 48px;
+        font-size: 18px;
+    }
+    .container .box2 .btn{
+        margin: 35px 85px;
+    }
+}
