@@ -1,0 +1,58 @@
+﻿@model Student
+@{
+    ViewData["Title"] = "ShowDetails";
+}
+
+<h1>ShowDetails</h1>
+<div class="container mt-5">
+    <h2 class="mb-4">Student Details</h2>
+
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h4 class="card-title">@Model.Name</h4>
+        </div>
+        <div class="card-body">
+            <div class="row">
+                <div class="col-md-6">
+                    <p><strong>ID:</strong> @Model.Id</p>
+                    <p><strong>Age:</strong> @Model.Age</p>
+                    <p><strong>Department:</strong> @Model.Department?.Name</p>
+                </div>
+            </div>
+
+            <h5 class="mt-4 mb-3">Course Results</h5>
+            @if (Model.CourseResult.Any())
+            {
+                <table class="table table-bordered table-striped">
+                    <thead class="thead-light">
+                        <tr>
+                            <th>Course</th>
+                            <th>Grade</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var result in Model.CourseResult)
+                        {
+                            <tr>
+                                <td>@result.Course?.Name</td>
+                                <td>@result.Grade</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <div class="alert alert-info" role="alert">
+                    No course results found for this student.
+                </div>
+            }
+        </div>
+    </div>
+
+    <div class="mt-4">
+        <a asp-controller="Student" asp-action ="ShowAll" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>
+
+

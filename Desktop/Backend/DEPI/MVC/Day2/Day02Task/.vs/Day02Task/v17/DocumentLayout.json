@@ -1,0 +1,217 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\views\\student\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:views\\student\\showdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:views\\student\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\models\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:models\\taskdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\migrations\\20250220153706_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:migrations\\20250220153706_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|c:\\users\\ahmad\\desktop\\backend\\depi\\mvc\\day2\\day02task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30787311-6F51-4CDE-87F3-E09D40B7BE2A}|Day02Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T16:05:00.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Views\\Student\\ShowDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\ShowDetails.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Views\\Student\\ShowDetails.cshtml",
+              "RelativeToolTip": "Views\\Student\\ShowDetails.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T16:02:03.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Views\\Student\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\ShowAll.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Views\\Student\\ShowAll.cshtml",
+              "RelativeToolTip": "Views\\Student\\ShowAll.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-20T15:52:45.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:47:35.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\TaskDBContext.cs",
+              "RelativeDocumentMoniker": "Models\\TaskDBContext.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\TaskDBContext.cs",
+              "RelativeToolTip": "Models\\TaskDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:26:42.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:26:31.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:24:24.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250220153706_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Migrations\\20250220153706_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250220153706_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Migrations\\20250220153706_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250220153706_InitialCreate.cs",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAkwHoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:37:28.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:28:06.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:24:51.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:28:23.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Backend\\DEPI\\MVC\\Day2\\Day02Task\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T15:27:45.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
