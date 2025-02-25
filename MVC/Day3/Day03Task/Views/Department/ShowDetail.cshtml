@@ -1,0 +1,83 @@
+﻿@model DepartmentDetailsViewModel
+@{
+    ViewData["Title"] = "ShowDetail";
+}
+<div class="container mt-4">
+    <div class="card shadow-sm p-4">
+        <h2 class="text-primary text-center">@Model.Name Department</h2>
+        <p class="text-muted text-center"><strong>Manager:</strong> @Model.ManagerName</p>
+
+        <div class="row mt-4">
+            <div class="col-md-4">
+                <div class="card border-primary mb-3">
+                    <div class="card-header bg-primary text-white text-center">
+                        <h5>Teachers</h5>
+                    </div>
+                    <div class="card-body">
+                        @if (Model.Teachers.Any())
+                        {
+                            <ul class="list-group">
+                                @foreach (var teacher in Model.Teachers)
+                                {
+                                    <li class="list-group-item">@teacher</li>
+                                }
+                            </ul>
+                        }
+                        else
+                        {
+                            <p class="text-center text-muted">No teachers available</p>
+                        }
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card border-success mb-3">
+                    <div class="card-header bg-success text-white text-center">
+                        <h5>Courses</h5>
+                    </div>
+                    <div class="card-body">
+                        @if (Model.Courses.Any())
+                        {
+                            <ul class="list-group">
+                                @foreach (var course in Model.Courses)
+                                {
+                                    <li class="list-group-item">@course</li>
+                                }
+                            </ul>
+                        }
+                        else
+                        {
+                            <p class="text-center text-muted">No courses available</p>
+                        }
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <div class="card border-info mb-3">
+                    <div class="card-header bg-info text-white text-center">
+                        <h5>Students</h5>
+                    </div>
+                    <div class="card-body">
+                        @if (Model.Students.Any())
+                        {
+                            <ul class="list-group">
+                                @foreach (var student in Model.Students)
+                                {
+                                    <li class="list-group-item">@student</li>
+                                }
+                            </ul>
+                        }
+                        else
+                        {
+                            <p class="text-center text-muted">No students available</p>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="text-center mt-4">
+            <a asp-action="ShowAll" class="btn btn-secondary">Back to Departments</a>
+        </div>
+    </div>
+</div>
