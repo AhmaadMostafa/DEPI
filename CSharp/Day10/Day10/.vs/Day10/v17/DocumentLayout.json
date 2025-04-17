@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Desktop\\Day10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|c:\\users\\ahmad\\desktop\\day10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|c:\\users\\ahmad\\desktop\\day10\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|solutionrelative:mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|c:\\users\\ahmad\\desktop\\day10\\stringfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|solutionrelative:stringfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|c:\\users\\ahmad\\desktop\\day10\\numberfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|solutionrelative:numberfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|c:\\users\\ahmad\\desktop\\day10\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|c:\\users\\ahmad\\desktop\\day10\\defaultvalueprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|solutionrelative:defaultvalueprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|c:\\users\\ahmad\\desktop\\day10\\sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|solutionrelative:sortingalgorithm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|c:\\users\\ahmad\\desktop\\day10\\sortingtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E7EF79-E341-4053-B02B-61DA46F8CCF3}|Day10.csproj|solutionrelative:sortingtwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StringFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Day10\\StringFilter.cs",
+              "RelativeDocumentMoniker": "StringFilter.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Day10\\StringFilter.cs",
+              "RelativeToolTip": "StringFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:55:13.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MathOperations.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Day10\\MathOperations.cs",
+              "RelativeDocumentMoniker": "MathOperations.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Day10\\MathOperations.cs",
+              "RelativeToolTip": "MathOperations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:54:08.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NumberFilter.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Day10\\NumberFilter.cs",
+              "RelativeDocumentMoniker": "NumberFilter.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Day10\\NumberFilter.cs",
+              "RelativeToolTip": "NumberFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:50:16.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefaultValueProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Day10\\DefaultValueProvider.cs",
+              "RelativeDocumentMoniker": "DefaultValueProvider.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Day10\\DefaultValueProvider.cs",
+              "RelativeToolTip": "DefaultValueProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:36:54.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SortingAlgorithm.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Day10\\SortingAlgorithm.cs",
+              "RelativeDocumentMoniker": "SortingAlgorithm.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Day10\\SortingAlgorithm.cs",
+              "RelativeToolTip": "SortingAlgorithm.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAwwAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:32:41.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Day10\\Employee.cs",
+              "RelativeDocumentMoniker": "Employee.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Day10\\Employee.cs",
+              "RelativeToolTip": "Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:22:40.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SortingTwo.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Day10\\SortingTwo.cs",
+              "RelativeDocumentMoniker": "SortingTwo.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Day10\\SortingTwo.cs",
+              "RelativeToolTip": "SortingTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:18:55.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Desktop\\Day10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Desktop\\Day10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAA0wD8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T04:12:13.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\bin\Debug\net8.0\Day5Part02.exe
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\bin\Debug\net8.0\Day5Part02.deps.json
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\bin\Debug\net8.0\Day5Part02.runtimeconfig.json
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\bin\Debug\net8.0\Day5Part02.dll
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\bin\Debug\net8.0\Day5Part02.pdb
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\Day5Part02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\Day5Part02.AssemblyInfoInputs.cache
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\Day5Part02.AssemblyInfo.cs
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\Day5Part02.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\Day5Part02.sourcelink.json
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\Day5Part02.dll
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\refint\Day5Part02.dll
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\Day5Part02.pdb
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\Day5Part02.genruntimeconfig.cache
+C:\Users\Ahmad\Desktop\Day5\Day5Part02\obj\Debug\net8.0\ref\Day5Part02.dll

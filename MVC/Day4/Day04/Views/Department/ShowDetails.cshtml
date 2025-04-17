@@ -1,0 +1,27 @@
+﻿@model DepartmentViewModel
+@{
+    ViewData["Title"] = "Department Details";
+}
+
+<div class="container mt-4">
+    <div class="card shadow-sm p-4">
+        <h2 class="text-primary text-center">@Model.DepartmentName</h2>
+
+        <div class="mb-3">
+            <label class="form-label fw-bold">Department State:</label>
+            <span class="badge bg-info">@Model.DepartmentState</span>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label fw-bold">Students Over 25:</label>
+            <select class="form-select">
+                @foreach (var student in Model.Students)
+                {
+                    <option value="@student.Value">@student.Text</option>
+                }
+            </select>
+        </div>
+
+        <a href="/Department/ShowAll" class="btn btn-secondary">Back to List</a>
+    </div>
+</div>
